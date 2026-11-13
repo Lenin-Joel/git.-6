@@ -1,4 +1,4 @@
-# SISTEMA DE PARQUEADERO UTC
+# SISTEMA DE PARQUEADERO UTC.....yoooo
 capacidad_maxima = int(input("Ingrese la capacidad máxima del parqueadero: "))
 vehiculos = 0
 while True:
